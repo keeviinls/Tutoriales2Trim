@@ -1,0 +1,12 @@
+package TUTORIALES.Video11.paquete1;
+
+public class Atributos_Metodos {
+
+    //MODIFICADOR DE ACCESO POR DEFECTO ES AQUEL QUE NO SE COLOCA NADA
+    //VEMOS QUE NO HEMOS NI PUBLIC NI PRIVATE ETC...
+    //ESTE TIPO SOLO LO PUEDEN ACCEDER UNA CLASE QUE ESTE DENTRO DEL MISMO PAQUETE
+
+    int valor1;
+    int valor2;
+    String valor3;
+}
